@@ -4,7 +4,7 @@ A 23-page visual field guide for app builders: 20 real products, five themes, an
 
 **[Download the PDF](20_App_UX_Patterns_2026.pdf)**
 
-![Guide preview](X_post_preview.png)
+![Guide preview](X_direct_share.png)
 
 ## What is inside
 
