@@ -1,6 +1,6 @@
 # 20 App UX Patterns Worth Studying
 
-An eight-page field guide for app builders: 20 real products, five themes, a specific interaction to inspect for each app, and an idea you can adapt to your own product.
+A 23-page visual field guide for app builders: 20 real products, five themes, and a full-page illustrated analysis for every case. Each case pairs an official store screenshot with a marked detail, a magnified crop, and one idea to test in your own product.
 
 **[Download the PDF](20_App_UX_Patterns_2026.pdf)**
 
@@ -11,10 +11,10 @@ An eight-page field guide for app builders: 20 real products, five themes, a spe
 1. One clear promise
 2. Complex work, simple flow
 3. Data that leads to action
-4. Accessibility is the experience
-5. Delight with a job to do
+4. Design for more people
+5. Interaction built around the task
 
-Each case links to the official App Store or Google Play listing and the relevant Apple or Google editorial source. The patterns are our design interpretation; they are not claims about revenue, conversion, or product performance. App interfaces can change.
+Each case links to the official App Store or Google Play listing, its screenshot source, and the relevant Apple or Google editorial source. The patterns are our design interpretation; they are not claims about revenue, conversion, or product performance. App interfaces can change.
 
 Research checked: 15 October 2026.
 
